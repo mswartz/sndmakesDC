@@ -1,28 +1,4 @@
-/*Image animation*/
 
-.img-node {
-	width: 25%;
-	display: block;
-	background-color: #EEE;
-	padding: 10px;
-	/*position: absolute;*/
-	/*position: relative;*/
-	float: left;
-	z-index: -1;
-	transition: all 1s ease-in-out;
-}
-
-.img-node img {
-	width: 100%;
-}
-
-.img-node.open {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100vh;
-}
 
 /* Layout*/
 
@@ -102,3 +78,20 @@ img {
 body {
 	padding: 1em;
 }
+
+
+/*Image animation*/
+
+.media-container {
+	position: absolute;
+	top: -100%;
+	left: 0;
+	opacity: 0;
+	transition: all 1s ease-in-out;
+}
+
+.active {
+	top: 0;
+	opacity: 1;
+}
+
