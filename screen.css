@@ -1,4 +1,4 @@
-// Image animation
+/*Image animation*/
 
 .img-node {
 	width: 25%;
@@ -47,26 +47,37 @@
     inset 0 0 0 .25em hsla(0, 0%, 0%, 0.5),
     0 0 0 .125em hsla(360, 100%, 100%, 0.5)
   ;
-  border-radius: .5em;
+  border-radius: 50%;
   position: absolute;
+}
+
+.fadeIn {
+	display:none;
 }
 
 /* Buttons (this will go away once things are dynamic) */
 
-.button1 {
-  height: 0;
+/*.button1 {
+  height: 40px;
   left: 20%;
   padding-bottom: 10%;
   top: 5%;
   width: 10%;
+}*/
+
+.button1 {
+	height: 40px;
+	width: 40px;
+	top: 5%;
+	left: 20%;
 }
 
 .button2 {
-  height: 0;
-  left: 50%;
-  padding-bottom: 12%;
-  top: 33%;
-  width: 20%;
+  	height: 40px;
+	width: 40px;
+	left: 50%;
+/*  	padding-bottom: 12%;*/
+  	top: 33%;
 }
 
 /* Utils */
