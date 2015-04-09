@@ -12,4 +12,8 @@ $(document).ready( function() {
 		$('#slide-2').addClass('hidden').removeClass('zoom-in');
 	});
 
+	$('.hide-button').on('click', function(){
+		$(this).toggleClass('active');
+	});
+
 });

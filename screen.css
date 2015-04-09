@@ -7,6 +7,36 @@
 	margin: 0 auto;*/
 }
 
+.nav {
+  background-color: rgba(0,0,0,.9);
+  height: 60px;
+}
+
+.nav-button {
+  width: 60px;
+  height: 60px;
+  float: right;
+  background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  cursor: pointer;
+}
+
+.nav-button.hide-button {
+  background-image: url("img/ui-elements/show-button.png");
+}
+
+.nav-button.hide-button.active {
+  background-image: url("img/ui-elements/hide-button.png");
+}
+
+
+.logo {
+  padding: 5px;
+  width: 200px;
+}
+
 /* Media figure */
 
 .media-container {
@@ -29,6 +59,14 @@
   position: absolute;
 }
 
+.media-caption {
+  background-color: rgba(0,0,0,.8);
+  color: #FFF;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+}
 
 /* Buttons (this will go away once things are dynamic) */
 
