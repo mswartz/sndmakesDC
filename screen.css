@@ -27,33 +27,32 @@
   position: absolute;
 }
 
-.fadeIn {
-	display:none;
-}
 
 /* Buttons (this will go away once things are dynamic) */
 
-/*.button1 {
-  height: 40px;
-  left: 20%;
-  padding-bottom: 10%;
-  top: 5%;
-  width: 10%;
-}*/
-
-.button1 {
+.media-button {
 	height: 40px;
 	width: 40px;
+}
+
+.button1 {
 	top: 5%;
 	left: 20%;
 }
 
 .button2 {
-  	height: 40px;
-	width: 40px;
 	left: 50%;
-/*  	padding-bottom: 12%;*/
   	top: 33%;
+}
+
+.button3 {
+	left: 80%;
+	top: 10%;
+}
+
+.button4 {
+	left: 44%;
+	top: 25%;
 }
 
 /* Utils */
