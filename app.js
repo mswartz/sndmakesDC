@@ -1,13 +1,6 @@
-$(document).ready( function() {
-	$('.img-node').on('click', function(){
-		// console.log('works');
-		$(this).toggleClass('open');
-	});
-});
-
 // Templating
 
-$.getJSON( "/images.json", function( data ){
+$.getJSON( '/images.json', function( data ){
 	var images = data
 	var source   = $( '#media-template' ).html();
 	var template = Handlebars.compile( source );
@@ -16,11 +9,15 @@ $.getJSON( "/images.json", function( data ){
 	console.log( data );
 });
 
+// Select new image
 
-// function( data ) {
-// 	var source   = $( '#media-template' ).html();
-// 	var template = Handlebars.compile(source);
-// 	var html     = $( '.container').html( template( data ) );
-//
-// 	console.log( "thing" );
-// });
+$( '.container' ).on( 'click', '.media-button', function() {
+	var _this = this;
+	var oldID = $( _this ).closest( '.media-container' ).data( 'id' );
+	var newID = $( _this ).data( 'relation' );
+	var oldImage = $( '.media-container[data-id="' + oldID + '"]' );
+	var newImage = $( '.media-container[data-id="' + newID + '"]' );
+
+	$( oldImage ).addClass('hidden').removeClass('zoom-in');
+	$( newImage ).removeClass('hidden').addClass('zoom-in');
+});

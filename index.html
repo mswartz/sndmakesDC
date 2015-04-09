@@ -15,8 +15,17 @@
 <script id="media-template" type="text/x-handlebars-template">
 	{{#each this}}
 		<li>
-		id: {{ id }}
-		url: {{ url }}
+			<figure data-id="{{id}}" class="media-container {{#unless start}}hidden{{/unless}}">
+			  <img src="{{url}}" alt="" />
+
+				{{#each this.relations}}
+					<button data-relation="{{id}}" class="media-button" style="top: {{ top }}%; left: {{ left }}%">
+				    <span class="visuallyhidden">picture of tree<span>
+				  </button>
+				{{/each}}
+
+			  <figcaption>{{ caption }}</figcaption>
+			</figure>
 		</li>
 	{{/each}}
 </script>
