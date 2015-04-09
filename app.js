@@ -21,3 +21,9 @@ $( '.container' ).on( 'click', '.media-button', function() {
 	$( oldImage ).addClass('hidden').removeClass('zoom-in');
 	$( newImage ).removeClass('hidden').addClass('zoom-in');
 });
+
+// Toggle caption
+
+$('.hide-button').on('click', function(){
+	$(this).toggleClass('active');
+});

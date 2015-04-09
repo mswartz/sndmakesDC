@@ -7,8 +7,22 @@
 </head>
 
 <body>
-	<h1>Z-Space</h1>
+	<div class="container-fluid">
+		<nav class="nav row-fluid">
+			<div class="col-md-6">
+				<img class="logo" src="img/ui-elements/zspace-logo.png" alt=""/>
+			</div>
 
+			<div class="col-md-6">
+				<div class="nav-button node-button">
+					<span class="visuallyHidden">Nodes</span>
+				</div>
+				<div class="nav-button hide-button">
+					<span class="visuallyHidden">Show/Hide</span>
+				</div>
+			</div>
+		</nav>
+	</div>
 	<ul class="container"></ul>
 </body>
 
@@ -24,7 +38,10 @@
 				  </button>
 				{{/each}}
 
-			  <figcaption>{{ caption }}</figcaption>
+			  <figcaption class="media-caption">
+			  	<h3>Slide 2 Title</h3>
+			  	<p>{{ caption }}</p>
+				</figcaption>
 			</figure>
 		</li>
 	{{/each}}
@@ -33,5 +50,4 @@
 <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="bower_components/handlebars/handlebars.min.js"></script>
 <script type="text/javascript" src="app.js"></script>
-
 </html>
