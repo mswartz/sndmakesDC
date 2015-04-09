@@ -1,6 +1,6 @@
 [
   {
-    "caption": "The title of the slide is here!",
+    "caption": "Ford's Theatre and the Star Saloon, directly to the right",
     "id": 1,
     "url": "/img/01ford-exterior.jpg",
     "start": true,
@@ -13,6 +13,7 @@
     ]
   },
   {
+    "caption": "On the night of April 14, 1865, Ford’s Theatre was running a production of “Our American Cousin,” a comedy. President Lincoln and his wife attended the play with another couple, Henry Rathbone and Clara Harris.",
     "id": 2,
     "url": "/img/02ford-interior.jpg",
     "relations": [
@@ -50,6 +51,7 @@
     ]
   },
   {
+    "caption": "Casts of Lincoln’s hands, taken by by Leonard Volk on May 20, 1860, to days after Lincoln’s presidential nomination. The right hand is swollen from shaking hands. After the assassination, the casts were produced commercially.",
     "id": 4,
     "url": "/img/04handcast.jpg",
     "relations": [
@@ -61,6 +63,7 @@
     ]
   },
   {
+    "caption": "Edwin Booth, older brother of John Wilkes, was considered the best actor in the Booth family. After the assassination, he refused to speak his brother’s name. At a party, Edwin Booth was drawn to a set of the hand casts, and asked the host to whom they belonged. Told they were Lincoln’s hands, Booth put them back silently, and left. ",
     "id": 5,
     "url": "/img/05edwin-hands.jpg",
     "relations": [
@@ -72,6 +75,7 @@
     ]
   },
   {
+    "caption": "Robert Todd Lincoln, the president’s only surviving child, was a young man at the time of the assassination. He became the steward of his father’s legacy, and kept a pair of the Lincoln hand casts in the study of his home, Hildene.",
     "id": 6,
     "url": "/img/06hands-robertlincoln.jpg",
     "relations": [
@@ -83,6 +87,7 @@
     ]
   },
   {
+    "caption":"Dedication of the Lincoln Memorial, May 30, 1922. This was Robert Todd Lincoln’s last public appearance.",
     "id": 7,
     "url": "/img/07robertlincoln-at-memorial.jpg",
     "relations": [
@@ -94,6 +99,7 @@
     ]
   },
   {
+    "caption":"Lincoln Memorial, built 1914 – 1922, architect Henry Bacon and sculptor Daniel Chester French (Washington DC)",
     "id": 8,
     "url": "/img/08lincoln-memorial-night.jpg",
     "relations": [

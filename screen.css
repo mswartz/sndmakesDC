@@ -1,12 +1,12 @@
 /* typography */
 
-h1, h2, h3 {
+/*h1, h2, h3 {
   font-family: "jubilat", sans-serif;
   font-weight: 800;
-}
+}*/
 
 p {
-  font-family: "jubilat", sans-serif;
+  font-family: "Jubilat", sans-serif;
   font-weight: 400;
 }
 
@@ -14,6 +14,8 @@ p {
 
 .container {
   list-style-type: none;
+  max-width: 60em;
+  margin: 0 auto;
 }
 
 .container-fluid {
@@ -61,7 +63,7 @@ padding: 0;
 
 .media-container {
   height: 0;
-	margin: 0 auto;
+  margin: 0 auto;
   padding-bottom: 75%;
   position: relative;
   opacity: 1;
@@ -84,7 +86,7 @@ padding: 0;
   background-color: rgba(0,0,0,.8);
   padding: 10px;
   color: #FFF;
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 100%;
   min-height: 100px;
