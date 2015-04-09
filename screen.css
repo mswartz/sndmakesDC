@@ -3,8 +3,8 @@
 /* Layout*/
 
 .container {
-	max-width: 60em;
-	margin: 0 auto;
+/*	max-width: 60em;
+	margin: 0 auto;*/
 }
 
 /* Media figure */
@@ -76,7 +76,7 @@ img {
 /* Base  */
 
 body {
-	padding: 1em;
+	/*padding: 1em;*/
 }
 
 
