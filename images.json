@@ -62,7 +62,7 @@
   },
   {
     "id": 5,
-    "url": "/img/05edwin-hands.png",
+    "url": "/img/05edwin-hands.jpg",
     "relations": [
       {
         "id": 1,
@@ -73,7 +73,7 @@
   },
   {
     "id": 6,
-    "url": "/img/06hands-robertlincoln.png",
+    "url": "/img/06hands-robertlincoln.jpg",
     "relations": [
       {
         "id": 1,
@@ -161,7 +161,7 @@
   },
   {
     "id": 14,
-    "url": "/img/14william-petersen.png",
+    "url": "/img/14william-petersen.jpg",
     "relations": [
       {
         "id": 1,
@@ -238,7 +238,7 @@
   },
   {
     "id": 21,
-    "url": "/img/21train.png",
+    "url": "/img/21train.jpg",
     "relations": [
       {
         "id": 1,
