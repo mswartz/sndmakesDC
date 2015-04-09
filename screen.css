@@ -78,7 +78,7 @@ padding: 0;
   bottom: 0;
   width: 100%;
   min-height: 100px;
-  z-index: 1;
+  z-index: 100;
 }
 
 /* Buttons (this will go away once things are dynamic) */
@@ -199,7 +199,7 @@ body.nodes-container figure.media-container, body.nodes-container figure.media-c
   opacity: 1;
   top: 0;
   left: 0;
-  width: 200px;
+  width: 25%;
   float: left;
 
   -webkit-transition: all .2s ease-in-out;
@@ -210,8 +210,6 @@ body.nodes-container figure.media-container:hover {
 }
 
 body.nodes-container figure.media-container img {
-  width: 200px;
-  height: 200px;
   border-radius: 200px;
 }
 
