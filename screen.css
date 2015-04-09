@@ -14,7 +14,9 @@
 	margin: 0 auto;
   padding-bottom: 75%;
   position: relative;
+  opacity: 1;
 }
+
 
 .media-button {
   background: none;
@@ -33,6 +35,10 @@
 .media-button {
 	height: 40px;
 	width: 40px;
+
+  -webkit-animation: pulse 1s infinite;
+  -moz-animation: pulse 1s infinite;
+  animation: pulse 1s infinite;
 }
 
 .button1 {
@@ -59,6 +65,7 @@
 
 img {
   max-width: 100%;
+  width: 100%;
 }
 
 .visuallyhidden {
@@ -94,10 +101,19 @@ body {
   }
 }
 
-
-.media-container {
-	position: absolute;
-	opacity: 1;
+@-webkit-keyframes pulse {
+  0%, 100%   { 
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% { 
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+    opacity: .5;
+  }
 }
 
 
