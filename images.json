@@ -44,9 +44,14 @@
     "url": "/img/03lincoln-mary.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 45,
-        "top": 15
+        "id": 9,
+        "left": 68,
+        "top": 41
+      },
+      {
+        "id": 4,
+        "left": 43,
+        "top": 79
       }
     ]
   },

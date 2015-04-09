@@ -31,7 +31,6 @@ $( '.container' ).on( 'click', '.media-button', function() {
 	$( newImage ).removeClass('hidden').addClass('zoom-in');
 });
 
-
 // Back to the beginning
 
 $( '.logo-trigger' ).on( 'click', function() {
@@ -43,6 +42,10 @@ $( '.logo-trigger' ).on( 'click', function() {
 // Toggle buttons
 
 $('.hide-button').on('click', function(){
+	if( $( 'body' ).hasClass( 'nodes-container' ) ) {
+		return false;
+	}
+
 	$(this).toggleClass('active');
 	$('body').toggleClass('hideButtons');
 });
