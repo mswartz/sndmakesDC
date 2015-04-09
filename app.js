@@ -34,3 +34,7 @@ $('.node-button').on('click', function(){
 	$('body').toggleClass('nodes-container');
 	$('body').toggleClass('hideButtons');
 });
+
+$('.logo-trigger').on('click', function(){
+	$('body').removeClass('nodes-container');
+});
