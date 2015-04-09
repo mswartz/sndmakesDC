@@ -23,6 +23,10 @@
   cursor: pointer;
 }
 
+.nav-button:hover {
+  opacity: .5;
+}
+
 .nav-button.hide-button {
   background-image: url("img/ui-elements/show-button.png");
 }
@@ -31,6 +35,9 @@
   background-image: url("img/ui-elements/hide-button.png");
 }
 
+.nav-button.node-button {
+  background-image: url("img/ui-elements/node-button.png");
+}
 
 .logo {
   padding: 5px;
