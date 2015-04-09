@@ -96,7 +96,9 @@ padding: 0;
 .media-button {
 	height: 40px;
 	width: 40px;
+}
 
+.media-button:hover{
   -webkit-animation: pulse 1s infinite;
   -moz-animation: pulse 1s infinite;
   animation: pulse 1s infinite;
@@ -179,7 +181,6 @@ body.hideButtons .media-button {
     opacity: .5;
   }
 }
-
 
 .zoom-in {
 	display: block;
