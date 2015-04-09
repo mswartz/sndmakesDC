@@ -4,21 +4,25 @@
 	<title>SND Makes prototype</title>
 	<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="screen.css"/>
-	<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
-	<script type="text/javascript" src="app.js"></script>
 </head>
 
 <body>
-	<div class="container">
-		<figure class="media-container">
-		  <img src="http://c1.staticflickr.com/9/8696/16456460904_628a29369a_h.jpg" alt="" />
-		  <button class="media-button button1">
-		    <span class="visuallyhidden">picture of tree<span>
-		  </button>
-		  <button class="media-button button2">
-		    <span class="visuallyhidden">picture of tree<span>
-		  </button>
-		</figure>
-	</div>
+	<h1>Z-Space</h1>
+
+	<ul class="container"></ul>
 </body>
+
+<script id="media-template" type="text/x-handlebars-template">
+	{{#each this}}
+		<li>
+		id: {{ id }}
+		url: {{ url }}
+		</li>
+	{{/each}}
+</script>
+
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="bower_components/handlebars/handlebars.min.js"></script>
+<script type="text/javascript" src="app.js"></script>
+
 </html>

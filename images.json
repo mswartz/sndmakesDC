@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "url": "c1.staticflickr.com/9/8696/16456460904_628a29369a_h.jpg",
+    "relations": [
+      {
+        "id": 2,
+        "height": 30,
+        "left": 20,
+        "width": 20,
+        "top": 40
+      },
+      {
+        "id": 4,
+        "height": 30,
+        "left": 2,
+        "width": 50,
+        "top": 76
+      },
+      {
+        "id": 6,
+        "height": 70,
+        "left": 89,
+        "width": 10,
+        "top": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "url": "c1.staticflickr.com/9/8696/16456460904_628a29369a_h.jpg",
+    "relations": [
+      {
+        "id": 2,
+        "height": 30,
+        "left": 20,
+        "width": 20,
+        "top": 40
+      },
+      {
+        "id": 4,
+        "height": 30,
+        "left": 2,
+        "width": 50,
+        "top": 76
+      },
+      {
+        "id": 6,
+        "height": 70,
+        "left": 89,
+        "width": 10,
+        "top": 3
+      }
+    ]
+  }
+]
