@@ -80,7 +80,7 @@ padding: 0;
   position: absolute;
 }
 
-/*.media-caption {
+.media-caption {
   background-color: rgba(0,0,0,.8);
   padding: 10px;
   color: #FFF;
@@ -89,7 +89,7 @@ padding: 0;
   width: 100%;
   min-height: 100px;
   z-index: 100;
-}*/
+}
 
 /* Buttons (this will go away once things are dynamic) */
 

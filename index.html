@@ -32,18 +32,20 @@
 			<figure data-id="{{id}}" class="media-container {{#unless start}}hidden{{/unless}}">
 			  <img src="{{url}}" alt="" />
 
-				{{#each this.relations}}
-					<button data-relation="{{id}}" class="media-button" style="top: {{ top }}%; left: {{ left }}%">
-				    <span class="visuallyhidden">picture of tree<span>
-				  </button>
-				{{/each}}
+				{{#if this.relations}}
+				  {{#each this.relations}}
+					  <button data-relation="{{id}}" class="media-button" style="top: {{ top }}%; left: {{ left }}%">
+					    <span class="visuallyhidden">picture of tree<span>
+					  </button>
+				  {{/each}}
+				{{/if}}
 
 			  <figcaption class="media-caption">
 			  	<h3>Slide 2 Title</h3>
 			  	<p>{{ caption }}</p>
 				</figcaption>
 			</figure>
-			
+
 		</li>
 	{{/each}}
 </script>

@@ -216,14 +216,7 @@
   },
   {
     "id": 19,
-    "url": "/img/19asylum.jpg",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/19asylum.jpg"
   },
   {
     "id": 20,
