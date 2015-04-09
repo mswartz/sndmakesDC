@@ -9,7 +9,6 @@ $.getJSON( '/images.json', function( data ){
 	console.log( data );
 });
 
-// Select new image
 
 $( '.container' ).on( 'click', '.media-button', function() {
 	var _this = this;
@@ -22,8 +21,20 @@ $( '.container' ).on( 'click', '.media-button', function() {
 	$( newImage ).removeClass('hidden').addClass('zoom-in');
 });
 
-// Toggle caption
+
+// Toggle buttons
 
 $('.hide-button').on('click', function(){
 	$(this).toggleClass('active');
+	$('body').toggleClass('hideButtons');
+});
+
+$('.node-button').on('click', function(){
+	$(this).toggleClass('active');
+	$('body').toggleClass('nodes-container');
+	$('body').toggleClass('hideButtons');
+});
+
+$('.logo-trigger').on('click', function(){
+	$('body').removeClass('nodes-container');
 });
