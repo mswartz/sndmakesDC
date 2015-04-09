@@ -31,7 +31,6 @@ $( '.container' ).on( 'click', '.media-button', function() {
 	$( newImage ).removeClass('hidden').addClass('zoom-in');
 });
 
-
 // Back to the beginning
 
 $( '.logo-trigger' ).on( 'click', function() {
