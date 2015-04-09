@@ -30,7 +30,8 @@
 	{{#each this}}
 		<li>
 			<figure data-id="{{id}}" class="media-container {{#unless start}}hidden{{/unless}}">
-			  <img src="{{url}}" alt="" />
+
+			<img src="{{url}}" alt="" />
 
 				{{#if this.relations}}
 				  {{#each this.relations}}
@@ -40,11 +41,11 @@
 				  {{/each}}
 				{{/if}}
 
-			  {{!-- <figcaption class="media-caption">
-			  	<h3>Slide 2 Title</h3>
+			 <figcaption class="media-caption">
 			  	<p>{{ caption }}</p>
-				</figcaption> --}}
+				</figcaption>
 			</figure>
+
 
 		</li>
 	{{/each}}
