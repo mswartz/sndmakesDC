@@ -43,6 +43,10 @@ $( '.logo-trigger' ).on( 'click', function() {
 // Toggle buttons
 
 $('.hide-button').on('click', function(){
+	if( $( 'body' ).hasClass( 'nodes-container' ) ) {
+		return false;
+	}
+
 	$(this).toggleClass('active');
 	$('body').toggleClass('hideButtons');
 });
