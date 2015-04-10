@@ -31,6 +31,15 @@ $( '.container' ).on( 'click', '.media-button', function() {
 	$( newImage ).removeClass('hidden').addClass('zoom-in');
 });
 
+// Hash Change
+
+$( window ).on('hashchange', function() {
+	var hash = window.location.hash ? window.location.hash.substring(1) : 1;
+
+	$( '.container .media-container.zoom-in').addClass('hidden').removeClass('zoom-in');
+	$( '.container .media-container[data-id="' + hash + '"]').removeClass('hidden').addClass('zoom-in');
+});
+
 // Back to the beginning
 
 $( '.logo-trigger' ).on( 'click', function() {
