@@ -215,8 +215,8 @@
     "relations": [
       {
         "id": 19,
-        "left": 1,
-        "top": 50
+        "left": 21,
+        "top": 54
       }
     ]
   },
@@ -356,14 +356,7 @@
   {
     "caption": "The Star Saloon was connected to Ford’s Theatre, and it was frequented by Fords actors, including Booth.",
     "id": 30,
-    "url": "/img/30saloon-booth-guard.jpg",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/30saloon-booth-guard.jpg"
   },
   {
     "caption": "Booth got a drink at the bar before he crept up to the president’s box. Lincoln’s bodyguard John F. Parker left his post and got a drink at the bar during intermission. Illustration by Jackie Roche, from 'On Duty.'",
