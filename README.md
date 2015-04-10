@@ -14,8 +14,8 @@ If our team had more time, we would fix the aspect ratios of the images to respo
 ## Team Members: 
 
 #### Jackie Roche
-@jrocheworkshop
-freelance writer, illustrator, & cartoonist
+- @jrocheworkshop
+- freelance writer, illustrator, & cartoonist
  
 #### Bethany Powell
 - @b_p_james
