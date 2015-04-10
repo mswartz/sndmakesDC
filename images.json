@@ -148,9 +148,9 @@
     "url": "/img/11petersen-ext.png",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 12,
+        "left": 52,
+        "top": 44
       }
     ]
   },
@@ -160,9 +160,9 @@
     "url": "/img/12deathbed-drawing.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 13,
+        "left": 49,
+        "top": 52
       }
     ]
   },
@@ -172,9 +172,9 @@
     "url": "/img/13deathbed-photo.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 14,
+        "left": 51,
+        "top": 48
       }
     ]
   },
@@ -184,9 +184,9 @@
     "url": "/img/14william-petersen.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 15,
+        "left": 86,
+        "top": 13
       }
     ]
   },
@@ -196,23 +196,16 @@
     "url": "/img/15clark-room.png",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 16,
+        "left": 41,
+        "top": 9
       }
     ]
   },
   {
     "caption": "A set of Lincoln’s clothes were left in the room, and William Clark hid them from the sticky-fingered visitors until he returned them to a White House messenger. Clark did, however, keep Lincoln’s boots.",
     "id": 16,
-    "url": "/img/16boots.png",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/16boots.png"
   },
   {
     "caption": "Major Henry Rathbone and his fiance Clara Harris were invited to the theatre after General Grant and his wife were unavailable.",
