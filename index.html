@@ -25,7 +25,7 @@
 	</div>
 	<!-- end nav bar -->
 	<div id="headline">
-		<h1>Lincoln's Assasination</h1>
+		<h1>Lincoln's Assassination</h1>
 	</div>
 	<!-- container of all things from json -->
 	<ul class="container"></ul>
@@ -45,6 +45,11 @@
 					  </button>
 				  {{/each}}
 				{{/if}}
+				{{#unless this.relations}}
+					<button data-relation="1" class="media-button" style="top: 3%; left: 95%">
+					    <span class="visuallyhidden">picture of tree<span>
+					  </button>
+				{{/unless}}
 
 				{{#if caption}}
 			  	  <figcaption class="media-caption">

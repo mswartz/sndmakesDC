@@ -1,6 +1,6 @@
 [
   {
-    "caption": "Ford's Theatre and the Star Saloon, directly to the right",
+    "caption": "Ford's Theatre and the Star Saloon, directly to the right. Image from Library of Congress.",
     "id": 1,
     "url": "/img/01ford-exterior.jpg",
     "start": true,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "caption": "On the night of April 14, 1865, Ford’s Theatre was running a production of “Our American Cousin,” a comedy. President Lincoln and his wife attended the play with another couple, Henry Rathbone and Clara Harris.",
+    "caption": "On the night of April 14, 1865, Ford’s Theatre was running a production of “Our American Cousin,” a comedy. President Lincoln and his wife attended the play with another couple, Henry Rathbone and Clara Harris. Image from New York Social Diary.",
     "id": 2,
     "url": "/img/02ford-interior.jpg",
     "relations": [
@@ -45,6 +45,7 @@
     ]
   },
   {
+    "caption": "Illustration by Jackie Roche, from 'On Duty'",
     "id": 3,
     "url": "/img/03lincoln-mary.jpg",
     "relations": [
@@ -61,7 +62,7 @@
     ]
   },
   {
-    "caption": "Casts of Lincoln’s hands, taken by by Leonard Volk on May 20, 1860, to days after Lincoln’s presidential nomination. The right hand is swollen from shaking hands. After the assassination, the casts were produced commercially.",
+    "caption": "Casts of Lincoln’s hands, taken by by Leonard Volk on May 20, 1860, to days after Lincoln’s presidential nomination. The right hand is swollen from shaking hands. After the assassination, the casts were produced commercially. Image from Wikimedia Commons.",
     "id": 4,
     "url": "/img/04handcast.jpg",
     "relations": [
@@ -73,7 +74,7 @@
     ]
   },
   {
-    "caption": "Edwin Booth, older brother of John Wilkes, was considered the best actor in the Booth family. After the assassination, he refused to speak his brother’s name. At a party, Edwin Booth was drawn to a set of the hand casts, and asked the host to whom they belonged. Told they were Lincoln’s hands, Booth put them back silently, and left. ",
+    "caption": "Edwin Booth, older brother of John Wilkes, was considered the best actor in the Booth family. After the assassination, he refused to speak his brother’s name. At a party, Edwin Booth was drawn to a set of the hand casts, and asked the host to whom they belonged. Told they were Lincoln’s hands, Booth put them back silently, and left. Illustration by Jackie Roche, from 'Good Hands.'",
     "id": 5,
     "url": "/img/05edwin-hands.jpg",
     "relations": [
@@ -85,7 +86,7 @@
     ]
   },
   {
-    "caption": "Robert Todd Lincoln, the president’s only surviving child, was a young man at the time of the assassination. He became the steward of his father’s legacy, and kept a pair of the Lincoln hand casts in the study of his home, Hildene.",
+    "caption": "Robert Todd Lincoln, the president’s only surviving child, was a young man at the time of the assassination. He became the steward of his father’s legacy, and kept a pair of the Lincoln hand casts in the study of his home, Hildene. Illustration by Jackie Roche, from 'Good Hands'.",
     "id": 6,
     "url": "/img/06hands-robertlincoln.jpg",
     "relations": [
@@ -97,7 +98,7 @@
     ]
   },
   {
-    "caption":"Dedication of the Lincoln Memorial, May 30, 1922. This was Robert Todd Lincoln’s last public appearance.",
+    "caption":"Dedication of the Lincoln Memorial, May 30, 1922. This was Robert Todd Lincoln’s last public appearance. Image from Ghosts of DC.",
     "id": 7,
     "url": "/img/07robertlincoln-at-memorial.jpg",
     "relations": [
@@ -109,7 +110,7 @@
     ]
   },
   {
-    "caption":"Lincoln Memorial, built 1914 – 1922, architect Henry Bacon and sculptor Daniel Chester French (Washington DC)",
+    "caption":"Lincoln Memorial, built 1914 – 1922, architect Henry Bacon and sculptor Daniel Chester French (Washington DC). Image from Wikimedia Commons.",
     "id": 8,
     "url": "/img/08lincoln-memorial-night.jpg",
     "relations": [
@@ -121,7 +122,7 @@
     ]
   },
   {
-    "caption":"Actor John Wilkes Booth crept into the unguarded president’s box and shot Lincoln during one of the play’s known laugh lines.",
+    "caption":"Actor John Wilkes Booth crept into the unguarded president’s box and shot Lincoln during one of the play’s known laugh lines. Photos from Hulton Archive/NPR.",
     "id": 9,
     "url": "/img/09booth-shoots-lincoln.jpg",
     "relations": [
@@ -133,7 +134,7 @@
     ]
   },
   {
-    "caption":"A doctor in the theatre and a few others carried the unconscious out of the theatre, looking for a private, more dignified place to tend to him.",
+    "caption":"A doctor in the theatre and a few others carried the unconscious out of the theatre, looking for a private, more dignified place to tend to him. Illustration by Jackie Roche, from 'On Duty.'",
     "id": 10,
     "url": "/img/10lstreet.jpg",
     "relations": [
@@ -145,7 +146,7 @@
     ]
   },
   {
-    "caption": "They were flagged into the Petersen Boarding House across the street.",
+    "caption": "They were flagged into the Petersen Boarding House across the street. Illustration by Jackie Roche, from 'Black Boots.'",
     "id": 11,
     "url": "/img/11petersen-ext.png",
     "relations": [
@@ -157,7 +158,7 @@
     ]
   },
   {
-    "caption": "Lincoln was brought into an empty back bedroom rented by William Clark, who was away. Doctors and cabinet members were summoned.",
+    "caption": "Lincoln was brought into an empty back bedroom rented by William Clark, who was away. Doctors and cabinet members were summoned. Image from PC-Triage",
     "id": 12,
     "url": "/img/12deathbed-drawing.jpg",
     "relations": [
@@ -169,9 +170,9 @@
     ]
   },
   {
-    "caption": "The president died early the next morning, and his body was removed to the White House. An upstairs boarder Jules Ulke (check spelling) was a photographer, and took a photograph of the empty deathbed.",
+    "caption": "The president died early the next morning, and his body was removed to the White House. An upstairs boarder Jules Ulke (check spelling) was a photographer, and took a photograph of the empty deathbed. Image from Chicago History Museum.",
     "id": 13,
-    "url": "/img/13deathbed-photo.jpg",
+    "url": "/img/13deathbed-Image.jpg",
     "relations": [
       {
         "id": 1,
@@ -181,7 +182,7 @@
     ]
   },
   {
-    "caption": "William Petersen the landlord arrived and was disgusted at the mess left behind. Soon though, curious residents began arriving at the house wanting to see the room where Lincoln died. Petersen decided to capitalize on the situation, and charged admission.",
+    "caption": "William Petersen the landlord arrived and was disgusted at the mess left behind. Soon though, curious residents began arriving at the house wanting to see the room where Lincoln died. Petersen decided to capitalize on the situation, and charged admission. Illustration by Jackie Roche, from 'Black Boots.'",
     "id": 14,
     "url": "/img/14william-petersen.jpg",
     "relations": [
@@ -193,7 +194,7 @@
     ]
   },
   {
-    "caption": "William Clark came home to find that his bedroom had become The Room Where Lincoln Died, and it was full of relic seekers. Clark wrote his sister, “Everybody has a great desire to obtain some memento from my room so that whoever comes in has to be closely watched for fear they will steal something.” Bits of fabric, wallpaper, and floorboard went missing.",
+    "caption": "William Clark came home to find that his bedroom had become The Room Where Lincoln Died, and it was full of relic seekers. Clark wrote his sister, “Everybody has a great desire to obtain some memento from my room so that whoever comes in has to be closely watched for fear they will steal something.” Bits of fabric, wallpaper, and floorboard went missing. Illustration by Jackie Roche, from 'Black Boots.'",
     "id": 15,
     "url": "/img/15clark-room.png",
     "relations": [
@@ -205,7 +206,7 @@
     ]
   },
   {
-    "caption": "A set of Lincoln’s clothes were left in the room, and William Clark hid them from the sticky-fingered visitors until he returned them to a White House messenger. Clark did, however, keep Lincoln’s boots.",
+    "caption": "A set of Lincoln’s clothes were left in the room, and William Clark hid them from the sticky-fingered visitors until he returned them to a White House messenger. Clark did, however, keep Lincoln’s boots. Illustration by Jackie Roche, from 'Black Boots.'",
     "id": 16,
     "url": "/img/16boots.png",
     "relations": [
@@ -217,7 +218,7 @@
     ]
   },
   {
-    "caption": "Major Henry Rathbone and his fiance Clara Harris were invited to the theatre after General Grant and his wife were unavailable.",
+    "caption": "Major Henry Rathbone and his fiance Clara Harris were invited to the theatre after General Grant and his wife were unavailable. Image from BoothieBarn.",
     "id": 17,
     "url": "/img/17rathbone.jpg",
     "relations": [
@@ -229,7 +230,7 @@
     ]
   },
   {
-    "caption": "Rathbone struggled with John Wilkes Booth, as Booth tried to escape the presidential box. Booth stabbed Rathbone in the arm.",
+    "caption": "Rathbone struggled with John Wilkes Booth, as Booth tried to escape the presidential box. Booth stabbed Rathbone in the arm. Image from Library of Congress.",
     "id": 18,
     "url": "/img/18stab.png",
     "relations": [
@@ -241,7 +242,7 @@
     ]
   },
   {
-    "caption": "Rathbone resigned from the Army in 1870 due to mental instability. In 1883, he attacked his children and murdered his wife, Clara Harris, who tried to protect them. He blamed the attack on a phantom intruder and lived the rest of his life in an asylum.",
+    "caption": "Rathbone resigned from the Army in 1870 due to mental instability. In 1883, he attacked his children and murdered his wife, Clara Harris, who tried to protect them. He blamed the attack on a phantom intruder and lived the rest of his life in an asylum. Image from Phactual.",
     "id": 19,
     "url": "/img/19asylum.jpg"
   },
@@ -258,7 +259,7 @@
     ]
   },
   {
-    "caption": "Edwin Booth was distraught by his brother’s actions, but found comfort in an incident a few years earlier. During the Civil War, Edwin Booth was on a crowded train platform, and caught a man who began to fall between the platform and the train. Booth later learned that the man he saved was Robert Todd Lincoln.",
+    "caption": "Edwin Booth was distraught by his brother’s actions, but found comfort in an incident a few years earlier. During the Civil War, Edwin Booth was on a crowded train platform, and caught a man who began to fall between the platform and the train. Booth later learned that the man he saved was Robert Todd Lincoln. Image from Wikimedia Commons.",
     "id": 21,
     "url": "/img/21train.jpg",
     "relations": [
@@ -270,7 +271,7 @@
     ]
   },
   {
-    "caption": "John Wilkes Booth fled Ford’s Theatre through the back on a waiting horse. He rode out of washington, intending to meet his fellow conspirators.",
+    "caption": "John Wilkes Booth fled Ford’s Theatre through the back on a waiting horse. He rode out of washington, intending to meet his fellow conspirators. Illustration by Jackie Roche, from 'Good Hands.'",
     "id": 22,
     "url": "/img/22escape-route.jpg",
     "relations": [
@@ -282,7 +283,7 @@
     ]
   },
   {
-    "caption": "Booth and one fellow conspirator, David Harold, hid in the woods during a 12-day manhunt.",
+    "caption": "Booth and one fellow conspirator, David Harold, hid in the woods during a 12-day manhunt. Image from Library of Congress via Smithsonianmag.com.",
     "id": 23,
     "url": "/img/23map.jpg",
     "relations": [
@@ -294,7 +295,7 @@
     ]
   },
   {
-    "caption": "An army unit surrounded Booth and Herald in a barn, and set it on fire when Booth refused to surrender. One of the soldiers, contrary to orders, had a clear shot of Booth and took it, killing him.",
+    "caption": "An army unit surrounded Booth and Herold in a barn, and set it on fire when Booth refused to surrender. One of the soldiers, contrary to orders, had a clear shot of Booth and took it, killing him.",
     "id": 24,
     "url": "/img/24barn.jpg",
     "relations": [
@@ -306,7 +307,7 @@
     ]
   },
   {
-    "caption": "David Herald surrendered and was hanged after a trial, along with the other conspirators.",
+    "caption": "David Herold surrendered and was hanged after a trial, along with the other conspirators. Image from Getty via International Business Times.",
     "id": 25,
     "url": "/img/25hanging.jpg",
     "relations": [
@@ -318,7 +319,7 @@
     ]
   },
   {
-    "caption": "The president’s party arrived late, but received a standing ovation when they appeared in the president’s box.",
+    "caption": "The president’s party arrived late, but received a standing ovation when they appeared in the president’s box. Image from Wikimedia Commons.",
     "id": 26,
     "url": "/img/26audience.png",
     "relations": [
@@ -330,7 +331,7 @@
     ]
   },
   {
-    "caption": "Samuel James Seymore (1860 – 1956) was 5 years old when he attended the play and witnessed the assassination of President Lincoln, and was the last surviving witness to the assassination.",
+    "caption": "Samuel James Seymore (1860 – 1956) was 5 years old when he attended the play and witnessed the assassination of President Lincoln, and was the last surviving witness to the assassination. Image from Mental Floss and YouTube screen grab.",
     "id": 27,
     "url": "/img/27seymour.jpg",
     "relations": [
@@ -354,7 +355,7 @@
     ]
   },
   {
-    "caption": "Lucille Ball",
+    "caption": "Lucille Ball. Image from ilovelucyandricky.wikia.com.",
     "id": 29,
     "url": "/img/29lucille-ball.jpg"
   },
@@ -371,7 +372,7 @@
     ]
   },
   {
-    "caption": "Booth got a drink at the bar before he crept up to the president’s box. Lincoln’s bodyguard John F. Parker left his post and got a drink at the bar during intermission.",
+    "caption": "Booth got a drink at the bar before he crept up to the president’s box. Lincoln’s bodyguard John F. Parker left his post and got a drink at the bar during intermission. Illustration by Jackie Roche, from 'On Duty.'",
     "id": 31,
     "url": "/img/30saloon-booth-guard.jpg",
     "relations": [

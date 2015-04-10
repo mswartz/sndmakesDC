@@ -90,6 +90,7 @@ body.nodes-container .nav-button.hide-button {
   position: absolute;
   height: 18px;
   width: 18px;
+  outline: 0;
 }
 
 .media-caption {
@@ -182,6 +183,10 @@ body.hideButtons .media-button {
 	opacity: 0;
 	top: -100%;
 	left: 0;
+}
+
+.hideCaption {
+	display: none;
 }
 
 
