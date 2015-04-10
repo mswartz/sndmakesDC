@@ -67,9 +67,9 @@
     "url": "/img/04handcast.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 5,
+        "left": 74,
+        "top": 31
       }
     ]
   },
@@ -79,9 +79,9 @@
     "url": "/img/05edwin-hands.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 6,
+        "left": 71,
+        "top": 19
       }
     ]
   },
@@ -91,7 +91,7 @@
     "url": "/img/06hands-robertlincoln.jpg",
     "relations": [
       {
-        "id": 1,
+        "id": 7,
         "left": 60,
         "top": 30
       }
@@ -103,23 +103,16 @@
     "url": "/img/07robertlincoln-at-memorial.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 8,
+        "left": 29,
+        "top": 104
       }
     ]
   },
   {
     "caption":"Lincoln Memorial, built 1914 – 1922, architect Henry Bacon and sculptor Daniel Chester French (Washington DC). Image from Wikimedia Commons.",
     "id": 8,
-    "url": "/img/08lincoln-memorial-night.jpg",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/08lincoln-memorial-night.jpg"
   },
   {
     "caption":"Actor John Wilkes Booth crept into the unguarded president’s box and shot Lincoln during one of the play’s known laugh lines. Photos from Hulton Archive/NPR.",
@@ -127,8 +120,13 @@
     "url": "/img/09booth-shoots-lincoln.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
+        "id": 10,
+        "left": 50,
+        "top": 24
+      },
+      {
+        "id": 17,
+        "left": 85,
         "top": 30
       }
     ]
@@ -139,9 +137,9 @@
     "url": "/img/10lstreet.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 11,
+        "left": 36,
+        "top": 24
       }
     ]
   },
@@ -151,9 +149,9 @@
     "url": "/img/11petersen-ext.png",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 12,
+        "left": 52,
+        "top": 44
       }
     ]
   },
@@ -163,9 +161,9 @@
     "url": "/img/12deathbed-drawing.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 13,
+        "left": 49,
+        "top": 52
       }
     ]
   },
@@ -175,9 +173,9 @@
     "url": "/img/13deathbed-Image.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 14,
+        "left": 51,
+        "top": 48
       }
     ]
   },
@@ -187,9 +185,9 @@
     "url": "/img/14william-petersen.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 15,
+        "left": 86,
+        "top": 13
       }
     ]
   },
@@ -199,23 +197,16 @@
     "url": "/img/15clark-room.png",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 16,
+        "left": 41,
+        "top": 9
       }
     ]
   },
   {
     "caption": "A set of Lincoln’s clothes were left in the room, and William Clark hid them from the sticky-fingered visitors until he returned them to a White House messenger. Clark did, however, keep Lincoln’s boots. Illustration by Jackie Roche, from 'Black Boots.'",
     "id": 16,
-    "url": "/img/16boots.png",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/16boots.png"
   },
   {
     "caption": "Major Henry Rathbone and his fiance Clara Harris were invited to the theatre after General Grant and his wife were unavailable. Image from BoothieBarn.",
@@ -224,8 +215,8 @@
     "relations": [
       {
         "id": 19,
-        "left": 20,
-        "top": 60
+        "left": 1,
+        "top": 50
       }
     ]
   },
@@ -252,9 +243,19 @@
     "url": "/img/20booth-brothers.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 22,
+        "left": 23,
+        "top": 21
+      },
+      {
+        "id": 21,
+        "left": 63,
+        "top": 22
+      },
+      {
+        "id": 5,
+        "left": 55,
+        "top": 14
       }
     ]
   },
@@ -264,9 +265,9 @@
     "url": "/img/21train.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 6,
+        "left": 84,
+        "top": 54
       }
     ]
   },
@@ -276,9 +277,9 @@
     "url": "/img/22escape-route.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 23,
+        "left": 35,
+        "top": 68
       }
     ]
   },
@@ -288,9 +289,9 @@
     "url": "/img/23map.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 24,
+        "left": 34,
+        "top": 151
       }
     ]
   },
@@ -300,23 +301,16 @@
     "url": "/img/24barn.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 25,
+        "left": 73,
+        "top": 63
       }
     ]
   },
   {
     "caption": "David Herold surrendered and was hanged after a trial, along with the other conspirators. Image from Getty via International Business Times.",
     "id": 25,
-    "url": "/img/25hanging.jpg",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/25hanging.jpg"
   },
   {
     "caption": "The president’s party arrived late, but received a standing ovation when they appeared in the president’s box. Image from Wikimedia Commons.",
