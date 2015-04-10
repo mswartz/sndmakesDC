@@ -47,7 +47,6 @@ $('.hide-button').on('click', function(){
 	}
 
 	$(this).toggleClass('active');
-	$('.media-caption').toggleClass('hideCaption');
 	$('body').toggleClass('hideButtons');
 });
 
