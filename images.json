@@ -239,9 +239,14 @@
     "url": "/img/20booth-brothers.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 22,
+        "left": 23,
+        "top": 21
+      },
+      {
+        "id": 21,
+        "left": 63,
+        "top": 22
       }
     ]
   },
@@ -261,9 +266,9 @@
     "url": "/img/22escape-route.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 23,
+        "left": 35,
+        "top": 68
       }
     ]
   },
@@ -272,9 +277,9 @@
     "url": "/img/23map.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 24,
+        "left": 34,
+        "top": 151
       }
     ]
   },
@@ -283,22 +288,15 @@
     "url": "/img/24barn.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 25,
+        "left": 73,
+        "top": 63
       }
     ]
   },
   {
     "id": 25,
-    "url": "/img/25hanging.jpg",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/25hanging.jpg"
   },
   {
     "id": 26,
