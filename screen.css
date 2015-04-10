@@ -1,8 +1,16 @@
 /* typography */
 
+h1 {
+	text-align: center;
+	color: white;
+	font-family: 'jubilat';
+	font-size: 4em;
+	padding-top: 3%;
+}
+
 p {
-  font-size: 18px;
-  font-family: "jubilat", sans-serif;
+  font-size: 15px;
+  font-family: 'jubilat', sans-serif;
   font-weight: 400;
 }
 
@@ -14,7 +22,7 @@ p {
 }
 
 .container-fluid {
-padding: 0;
+  padding: 0;
 }
 
 .nav {
@@ -64,7 +72,7 @@ body.nodes-container .nav-button.hide-button {
 .media-container {
   height: 0;
   margin: 0 auto;
-  padding-bottom: 75%;
+  padding: 0 0 75% 0;
   position: relative;
   opacity: 1;
   -webkit-transition: all 2s ease-in-out;
@@ -80,10 +88,12 @@ body.nodes-container .nav-button.hide-button {
   ;
   border-radius: 50%;
   position: absolute;
+  height: 18px;
+  width: 18px;
 }
 
 .media-caption {
-  background-color: rgba(0,0,0,.8);
+  background-color: rgba(0,0,0,.7);
   padding: 10px;
   color: #FFF;
   position: absolute;
@@ -93,38 +103,12 @@ body.nodes-container .nav-button.hide-button {
   z-index: 100;
 }
 
-/* Buttons (this will go away once things are dynamic) */
-
-.media-button {
-	height: 15px;
-	width: 15px;
-}
 
 .media-button:hover{
   -webkit-animation: pulse 1s infinite;
   -moz-animation: pulse 1s infinite;
   animation: pulse 1s infinite;
 }
-
-/*.button1 {
-	top: 5%;
-	left: 20%;
-}
-
-.button2 {
-	left: 50%;
-  	top: 33%;
-}
-
-.button3 {
-	left: 80%;
-	top: 10%;
-}
-
-.button4 {
-	left: 44%;
-	top: 25%;
-}*/
 
 /* Utils */
 
