@@ -121,6 +121,7 @@
     ]
   },
   {
+    "caption":"Actor John Wilkes Booth crept into the unguarded president’s box and shot Lincoln during one of the play’s known laugh lines.",
     "id": 9,
     "url": "/img/09booth-shoots-lincoln.jpg",
     "relations": [
@@ -132,6 +133,7 @@
     ]
   },
   {
+    "caption":"A doctor in the theatre and a few others carried the unconscious out of the theatre, looking for a private, more dignified place to tend to him.",
     "id": 10,
     "url": "/img/10lstreet.jpg",
     "relations": [
@@ -143,6 +145,7 @@
     ]
   },
   {
+    "caption": "They were flagged into the Petersen Boarding House across the street.",
     "id": 11,
     "url": "/img/11petersen-ext.png",
     "relations": [
@@ -154,6 +157,7 @@
     ]
   },
   {
+    "caption": "Lincoln was brought into an empty back bedroom rented by William Clark, who was away. Doctors and cabinet members were summoned.",
     "id": 12,
     "url": "/img/12deathbed-drawing.jpg",
     "relations": [
@@ -165,6 +169,7 @@
     ]
   },
   {
+    "caption": "The president died early the next morning, and his body was removed to the White House. An upstairs boarder Jules Ulke (check spelling) was a photographer, and took a photograph of the empty deathbed.",
     "id": 13,
     "url": "/img/13deathbed-photo.jpg",
     "relations": [
@@ -176,6 +181,7 @@
     ]
   },
   {
+    "caption": "William Petersen the landlord arrived and was disgusted at the mess left behind. Soon though, curious residents began arriving at the house wanting to see the room where Lincoln died. Petersen decided to capitalize on the situation, and charged admission.",
     "id": 14,
     "url": "/img/14william-petersen.jpg",
     "relations": [
@@ -187,6 +193,7 @@
     ]
   },
   {
+    "caption": "William Clark came home to find that his bedroom had become The Room Where Lincoln Died, and it was full of relic seekers. Clark wrote his sister, “Everybody has a great desire to obtain some memento from my room so that whoever comes in has to be closely watched for fear they will steal something.” Bits of fabric, wallpaper, and floorboard went missing.",
     "id": 15,
     "url": "/img/15clark-room.png",
     "relations": [
@@ -198,6 +205,7 @@
     ]
   },
   {
+    "caption": "A set of Lincoln’s clothes were left in the room, and William Clark hid them from the sticky-fingered visitors until he returned them to a White House messenger. Clark did, however, keep Lincoln’s boots.",
     "id": 16,
     "url": "/img/16boots.png",
     "relations": [
@@ -209,6 +217,7 @@
     ]
   },
   {
+    "caption": "Major Henry Rathbone and his fiance Clara Harris were invited to the theatre after General Grant and his wife were unavailable.",
     "id": 17,
     "url": "/img/17rathbone.jpg",
     "relations": [
@@ -220,6 +229,7 @@
     ]
   },
   {
+    "caption": "Rathbone struggled with John Wilkes Booth, as Booth tried to escape the presidential box. Booth stabbed Rathbone in the arm.",
     "id": 18,
     "url": "/img/18stab.png",
     "relations": [
@@ -231,10 +241,12 @@
     ]
   },
   {
+    "caption": "Rathbone resigned from the Army in 1870 due to mental instability. In 1883, he attacked his children and murdered his wife, Clara Harris, who tried to protect them. He blamed the attack on a phantom intruder and lived the rest of his life in an asylum.",
     "id": 19,
     "url": "/img/19asylum.jpg"
   },
   {
+    "caption": "The three Booth brothers, all actors: John Wilkes, Edwin, and Julius. Edwin was considered the best, and became the more well-respected Shakespearean actor in the U.S.",
     "id": 20,
     "url": "/img/20booth-brothers.jpg",
     "relations": [
@@ -251,6 +263,7 @@
     ]
   },
   {
+    "caption": "Edwin Booth was distraught by his brother’s actions, but found comfort in an incident a few years earlier. During the Civil War, Edwin Booth was on a crowded train platform, and caught a man who began to fall between the platform and the train. Booth later learned that the man he saved was Robert Todd Lincoln.",
     "id": 21,
     "url": "/img/21train.jpg",
     "relations": [
@@ -262,6 +275,7 @@
     ]
   },
   {
+    "caption": "John Wilkes Booth fled Ford’s Theatre through the back on a waiting horse. He rode out of washington, intending to meet his fellow conspirators.",
     "id": 22,
     "url": "/img/22escape-route.jpg",
     "relations": [
@@ -273,6 +287,7 @@
     ]
   },
   {
+    "caption": "Booth and one fellow conspirator, David Harold, hid in the woods during a 12-day manhunt.",
     "id": 23,
     "url": "/img/23map.jpg",
     "relations": [
@@ -284,6 +299,7 @@
     ]
   },
   {
+    "caption": "An army unit surrounded Booth and Herald in a barn, and set it on fire when Booth refused to surrender. One of the soldiers, contrary to orders, had a clear shot of Booth and took it, killing him.",
     "id": 24,
     "url": "/img/24barn.jpg",
     "relations": [
@@ -295,10 +311,12 @@
     ]
   },
   {
+    "caption": "David Herald surrendered and was hanged after a trial, along with the other conspirators.",
     "id": 25,
     "url": "/img/25hanging.jpg"
   },
   {
+    "caption": "The president’s party arrived late, but received a standing ovation when they appeared in the president’s box.",
     "id": 26,
     "url": "/img/26audience.png",
     "relations": [
@@ -310,6 +328,7 @@
     ]
   },
   {
+    "caption": "Samuel James Seymore (1860 – 1956) was 5 years old when he attended the play and witnessed the assassination of President Lincoln, and was the last surviving witness to the assassination.",
     "id": 27,
     "url": "/img/27seymour.jpg",
     "relations": [
@@ -321,6 +340,7 @@
     ]
   },
   {
+    "caption": "Samuel James Seymore (1860 – 1956) was 5 years old when he attended the play and witnessed the assassination of President Lincoln, and was the last surviving witness to the assassination. Seymore appeared on the television program I’ve Got a Secret in 1956, with guest panelist Lucille Ball.",
     "id": 28,
     "url": "/img/28secret.jpg",
     "relations": [
@@ -332,11 +352,32 @@
     ]
   },
   {
+    "caption": "Lucille Ball",
     "id": 29,
     "url": "/img/29lucille-ball.jpg"
   },
   {
+    "caption": "The Star Saloon was connected to Ford’s Theatre, and it was frequented by Fords actors, including Booth.",
     "id": 30,
-    "url": "/img/30saloon-booth-guard.jpg"
+    "url": "/img/30saloon-booth-guard.jpg",
+    "relations": [
+      {
+        "id": 1,
+        "left": 60,
+        "top": 30
+      }
+    ]
+  },
+  {
+    "caption": "Booth got a drink at the bar before he crept up to the president’s box. Lincoln’s bodyguard John F. Parker left his post and got a drink at the bar during intermission.",
+    "id": 31,
+    "url": "/img/30saloon-booth-guard.jpg",
+    "relations": [
+      {
+        "id": 1,
+        "left": 60,
+        "top": 30
+      }
+    ]
   }
 ]
