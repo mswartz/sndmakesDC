@@ -66,9 +66,9 @@
     "url": "/img/04handcast.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 5,
+        "left": 74,
+        "top": 31
       }
     ]
   },
@@ -78,9 +78,9 @@
     "url": "/img/05edwin-hands.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 6,
+        "left": 71,
+        "top": 19
       }
     ]
   },
@@ -90,7 +90,7 @@
     "url": "/img/06hands-robertlincoln.jpg",
     "relations": [
       {
-        "id": 1,
+        "id": 7,
         "left": 60,
         "top": 30
       }
@@ -102,23 +102,16 @@
     "url": "/img/07robertlincoln-at-memorial.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 8,
+        "left": 29,
+        "top": 104
       }
     ]
   },
   {
     "caption":"Lincoln Memorial, built 1914 – 1922, architect Henry Bacon and sculptor Daniel Chester French (Washington DC)",
     "id": 8,
-    "url": "/img/08lincoln-memorial-night.jpg",
-    "relations": [
-      {
-        "id": 1,
-        "left": 60,
-        "top": 30
-      }
-    ]
+    "url": "/img/08lincoln-memorial-night.jpg"
   },
   {
     "caption":"Actor John Wilkes Booth crept into the unguarded president’s box and shot Lincoln during one of the play’s known laugh lines.",
@@ -126,8 +119,13 @@
     "url": "/img/09booth-shoots-lincoln.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
+        "id": 10,
+        "left": 50,
+        "top": 24
+      },
+      {
+        "id": 17,
+        "left": 85,
         "top": 30
       }
     ]
@@ -138,9 +136,9 @@
     "url": "/img/10lstreet.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 11,
+        "left": 36,
+        "top": 24
       }
     ]
   },
@@ -223,8 +221,8 @@
     "relations": [
       {
         "id": 19,
-        "left": 20,
-        "top": 60
+        "left": 1,
+        "top": 50
       }
     ]
   },
@@ -259,6 +257,11 @@
         "id": 21,
         "left": 63,
         "top": 22
+      },
+      {
+        "id": 5,
+        "left": 55,
+        "top": 14
       }
     ]
   },
@@ -268,9 +271,9 @@
     "url": "/img/21train.jpg",
     "relations": [
       {
-        "id": 1,
-        "left": 60,
-        "top": 30
+        "id": 6,
+        "left": 84,
+        "top": 54
       }
     ]
   },
