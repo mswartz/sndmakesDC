@@ -13,23 +13,23 @@ If our team had more time, we would fix the aspect ratios of the images to respo
 
 ## Team Members: 
 
-- Jackie Roche
+#### Jackie Roche
 @jrocheworkshop
 freelance writer, illustrator, & cartoonist
  
-- Bethany Powell
+#### Bethany Powell
 - @b_p_james
 - Director of Mobile Design at National Geographic  
 
-- Ashley Wu
+#### Ashley Wu
 - @ashhwu
 - Student fellow at Knight Lab
  
-- Welch Canavan
+#### Welch Canavan
 - @xiwcx
 - Developer at National Geographic
  
-- Mike Swartz
+#### Mike Swartz
 - @m_swartz
 - Partner, Upstatement
  
