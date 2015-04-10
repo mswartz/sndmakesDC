@@ -1,6 +1,6 @@
 // Templating
 
-$.getJSON( '/images.json', function( data ){
+$.getJSON( './images.json', function( data ){
 	var images = data
 	var source   = $( '#media-template' ).html();
 	var template = Handlebars.compile( source );
